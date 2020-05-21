@@ -38,11 +38,11 @@ div h1 {
 #nav-list {
 	margin-top: 0;
 	margin-bottom: 0;
-	margin-right: -10px;
-	margin-left: -10px;
+	
 }
 #nav-list a {
 	margin:0;
+	border: 1px black solid;
 
 	color: #000;
 	background-color: #7CF0EE;
